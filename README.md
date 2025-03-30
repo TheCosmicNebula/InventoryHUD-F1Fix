@@ -4,7 +4,9 @@ A quick and dirty decompile and code fix of the popular Minecraft Mod InventoryH
 Fixes the issue where the GUI remains present when in F1 Hide GUI Mode.
 
 ## Disclaimer
-This mod is not authorised or endorsed by InventoryHUD+'s developer **dmitrylovin**. I was just frustrated that when you hit the F1 key to take screenshots, InventoryHUD remains on the screen. I am not attempting to steal code or replicate the mod in any way,a s the mod is still very actively developed.
+This mod is not authorised or endorsed by InventoryHUD+'s developer **dmitrylovin**. I do not own the rights to InventoryHUD+, nor the rights to any of the code.
+
+I was just frustrated that when you hit the F1 key to take screenshots, InventoryHUD remains on the screen. I am not attempting to steal code or replicate the mod in any way,a s the mod is still very actively developed.
 
 Some features *may* be broken, as decompiling is not an exact science, and the original mods code is not publicly available.
 
