@@ -10,7 +10,7 @@ If dmitrylovin finds this and requests that I take it down, I will oblige.
 
 No code will be posted here, just the fixed mod files.
 
-***DO NOT contact dmitrylovin in regards to issues experienced with this mod. Open an issue and I will do my best to sort it.
+***DO NOT contact dmitrylovin in regards to issues experienced with this mod. Open an issue and I will do my best to sort it.***
 
 ## Future
 This mod will exist until the original mod implements this feature.
