@@ -6,6 +6,8 @@ Fixes the issue where the GUI remains present when in F1 Hide GUI Mode.
 ## Original Fixed
 This fix is now irrelevant as this issue has been addressed by the original author. This repo is now archived.
 
+Dmitry fixed this issue 2 days later and requested that I remove the mod file. I have done so.
+
 ## Disclaimer
 This mod is not authorised or endorsed by InventoryHUD+'s developer **dmitrylovin**. I do not own the rights to InventoryHUD+, nor the rights to any of the code.
 
